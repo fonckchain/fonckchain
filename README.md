@@ -31,6 +31,6 @@ I regularly write articles on Medium about web3, with a focus on Loopring, Immut
 - Email - AFonck@protonmail.com
 - LinkedIn - [Andrés Fonseca Bolaños](https://www.linkedin.com/in/fonckchain/)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fonckchain.fonckchain)
+![Visitor Count](https://profile-counter.glitch.me/fonckchain/count.svg)
 
 ![Andrés Fonseca Bolaños's GitHub stats](https://github-readme-stats.vercel.app/api?username=fonckchain&show_icons=true&theme=radical)
