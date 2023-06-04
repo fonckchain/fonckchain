@@ -27,11 +27,6 @@ I'm an innovative and detail-oriented full-stack dev passionate about blockchain
 ## 📝 Medium Stories
 I regularly write articles on Medium about web3, with a focus on Loopring, Immutable X, and gaming. Check out my stories to learn more about these topics and stay up-to-date with the latest trends and developments. [Read my stories on Medium](https://medium.com/@fonckchain)
 
-## 📫 Connect with Me
-- Email - AFonck@protonmail.com
-- LinkedIn - [Andrés Fonseca Bolaños](https://www.linkedin.com/in/fonckchain/)
-- 🐦Twitter - [@fonckchain](https://twitter.com/fonckchain)
-
 ## 🚶‍♂️ Visitor Counter
 ![Visitor Count](https://profile-counter.glitch.me/fonckchain/count.svg)
 
@@ -43,129 +38,575 @@ You've just entered the world of blockchain. You have a powerful computer and in
 
 Do you:
 
-1. [Degen into a Shitcoin](#degen-coin)
-2. [Buy some Ethereum](#buy-ethereum)
-3. [Create a digital art NFT](#create-nft)
-4. [Dive into the world of Web3 gaming with Immutable X](#web3-gaming)
-
----
-
-<a name="degen-coin"></a>
-### You degen into a Shitcoin.
+<details>
+<summary>1. Degen into a Shitcoin</summary>
 
 You've invested all your funds into a new, unproven coin. Unfortunately, the coin's value plummets and you lose your investment. Remember, always do your research and invest based on value propositions!
 
----
+</details>
 
-<a name="buy-ethereum"></a>
-### You buy some Ethereum.
+<details>
+<summary>2. Buy some Ethereum</summary>
 
 You've just bought some Ethereum in a centralized exchange. Now you have some decisions to make.
 
 Do you:
 
-
-1. [Keep your crypto in a centralized exchange](#hold-cex)
-2. [Withdraw your crypto to your own wallet](#own-wallet)
-
----
-
-<a name="create-nft"></a>
-### You create a digital art NFT.
-
-You've created a beautiful piece of digital art and minted it as an NFT with super low gas fees on the Loopring blockchain.
-
-Do you:
-
-1. [Put the NFT up for sale](#sale-nft)
-2. [Gift the NFT to a friend](#gift-nft)
-3. [Hold the NFT](#hold-nft)
-
----
-
-<a name="web3-gaming"></a>
-### You dive into the world of Web3 gaming with GameStop, the epicenter of web3 gaming.
-
-You've just bought your first game asset on the GameStop marketplace with a gasless experience using Immutable X.
-
-Do you:
-
-1. [Play the game with your new asset](#play-game)
-2. [Trade the asset for another game asset](#trade-asset)
-3. [Rent your NFT for profit to other players](#rent-asset)
-
----
-
-<a name="hold-cex"></a>
-### You keep your crypto in a centralized exchange.
+<details>
+<summary>1. Keep your crypto in a centralized exchange</summary>
 
 Unfortunately, the exchange gets hacked and all your Ethereum is stolen. Remember the core crypto values: not your keys, not your coins. It's always best to be your own bank, it's never been easier now that Loopring is around!
 
----
+</details>
 
-<a name="own-wallet"></a>
-### You withdraw your crypto to your own wallet.
+<details>
+<summary>2. Withdraw your crypto to your own wallet</summary>
 
 Congratulations! You've taken control of your own assets. In doing so, you discover Loopring, a Layer 2 scaling solution that offers secure, scalable, and low-cost Ethereum transactions. You're impressed by the incredible technology behind it.
 
 Do you:
 
-1. [Buy heavily into Loopring](#buy-loopring)
-2. [Educate your friends & family about Loopring](#educate-loopring)
-
----
-
-<a name="buy-loopring"></a>
-### You buy heavily into Loopring.
+<details>
+<summary>1. Buy heavily into Loopring</summary>
 
 You've decided to invest in Loopring, recognizing its potential to revolutionize the blockchain space with its Layer 2 scaling solution. Your investment pays off as Loopring's value skyrockets!
 
----
+</details>
 
-<a name="educate-loopring"></a>
-### You educate your friends & family about Loopring.
+<details>
+<summary>2. Educate your friends & family about Loopring</summary>
 
 You've taken it upon yourself to spread the word about Loopring. Your friends and family are intrigued by the technology and its potential. Some of them even decide to invest in Loopring themselves!
 
+</details>
 
----
+</details>
 
-<a name="sale-nft"></a>
-### You put the NFT up for sale.
+</details>
+
+<details>
+<summary>3. Create a digital art NFT</summary>
+
+You've created a beautiful piece of digital art and minted it as an NFT with super low gas fees on the Loopring blockchain.
+
+Do you:
+
+<details>
+<summary>1. Put the NFT up for sale</summary>
 
 Your NFT sells for a significant price on the Loopring marketplace! Congratulations, you just kickstarted your artist journey.
 
----
+</details>
 
-<a name="gift-nft"></a>
-### You gift the NFT to a friend.
+<details>
+<summary>2. Gift the NFT to a friend</summary>
 
 Your friend is thrilled with the NFT! By gifting the NFT, you've spread awareness of blockchain technology and its potential to disrupt traditional systems.
 
----
+</details>
 
-<a name="hold-nft"></a>
-### You hold the NFT.
+<details>
+<summary>3. Hold the NFT</summary>
 
 You decide to hold onto your NFT, believing it will appreciate in value over time. This decision pays off as the NFT's value increases significantly after you become a known artist!
 
----
+</details>
 
-<a name="play-game"></a>
-### You play the game with your new asset.
+</details>
+
+<details>
+<summary>4. Dive into the world of Web3 gaming with GameStop, the epicenter of web3 gaming</summary>
+
+You've just bought your first game asset on the GameStop marketplace with a gasless experience using Immutable X.
+
+Do you:
+
+<details>
+<summary>1. Play the game with your new asset</summary>
 
 You're having a blast playing the game with your new asset! You manage to recover your investment and then sell the asset to move into a different game. You're enjoying the new reality of owning digital assets.
 
----
+</details>
 
-<a name="trade-asset"></a>
-### You trade the asset for another game asset.
+<details>
+<summary>2. Trade the asset for another game asset</summary>
 
-You've successfully traded your game asset for another one that suits your gaming style better. You're enjoying the new reality of owning digital assets.
+You've successfully traded your game asset for another one that suits yourSure, here's the full code with collapsible sections:
 
----
+```markdown
+## 🎮 Mini-Game: Choose Your Own Crypto Adventure!
 
-<a name="rent-asset"></a>
-### You rent your NFT for profit to other players.
+You've just entered the world of blockchain. You have a powerful computer and internet connection.
 
-You decide to rent out your NFT to other players. You forget about the assets and after several months, you log back in to realize you've made significant profits. These profits enable you to quit your low-paying job and look for something more fulfilling. You're amazed at the opportunities provided by the blockchain economy.
+Do you:
+
+<details>
+<summary>1. Degen into a Shitcoin</summary>
+
+You've invested all your funds into a new, unproven coin. Unfortunately, the coin's value plummets and you lose your investment. Remember, always do your research and invest based on value propositions!
+
+</details>
+
+<details>
+<summary>2. Buy some Ethereum</summary>
+
+You've just bought some Ethereum in a centralized exchange. Now you have some decisions to make.
+
+Do you:
+
+<details>
+<summary>1. Keep your crypto in a centralized exchange</summary>
+
+Unfortunately, the exchange gets hacked and all your Ethereum is stolen. Remember the core crypto values: not your keys, not your coins. It's always best to be your own bank, it's never been easier now that Loopring is around!
+
+</details>
+
+<details>
+<summary>2. Withdraw your crypto to your own wallet</summary>
+
+Congratulations! You've taken control of your own assets. In doing so, you discover Loopring, a Layer 2 scaling solution that offers secure, scalable, and low-cost Ethereum transactions. You're impressed by the incredible technology behind it.
+
+Do you:
+
+<details>
+<summary>1. Buy heavily into Loopring</summary>
+
+You've decided to invest in Loopring, recognizing its potential to revolutionize the blockchain space with its Layer 2 scaling solution. Your investment pays off as Loopring's value skyrockets!
+
+</details>
+
+<details>
+<summary>2. Educate your friends & family about Loopring</summary>
+
+You've taken it upon yourself to spread the word about Loopring. Your friends and family are intrigued by the technology and its potential. Some of them even decide to invest in Loopring themselves!
+
+</details>
+
+</details>
+
+</details>
+
+<details>
+<summary>3. Create a digital art NFT</summary>
+
+You've created a beautiful piece of digital art and minted it as an NFT with super low gas fees on the Loopring blockchain.
+
+Do you:
+
+<details>
+<summary>1. Put the NFT up for sale</summary>
+
+Your NFT sells for a significant price on the Loopring marketplace! Congratulations, you just kickstarted your artist journey.
+
+</details>
+
+<details>
+<summary>2. Gift the NFT to a friend</summary>
+
+Your friend is thrilled with the NFT! By gifting the NFT, you've spread awareness of blockchain technology and its potential to disrupt traditional systems.
+
+</details>
+
+<details>
+<summary>3. Hold the NFT</summary>
+
+You decide to hold onto your NFT, believing it will appreciate in value over time. This decision pays off as the NFT's value increases significantly after you become a known artist!
+
+</details>
+
+</details>
+
+<details>
+<summary>4. Dive into the world of Web3 gaming with GameStop, the epicenter of web3 gaming</summary>
+
+You've just bought your first game asset on the GameStop marketplace with a gasless experience using Immutable X.
+
+Do you:
+
+<details>
+<summary>1. Play the game with your new asset</summary>
+
+You're having a blast playing the game with your new asset! You manage to recover your investment and then sell the asset to move into a different game. You're enjoying the new reality of owning digital assets.
+
+</details>
+
+<details>
+<summary>2. Trade the asset for another game asset</summary>
+
+You've successfully traded your game asset for another one that suits yourSure, here's the full code with collapsible sections:
+
+```markdown
+## 🎮 Mini-Game: Choose Your Own Crypto Adventure!
+
+You've just entered the world of blockchain. You have a powerful computer and internet connection.
+
+Do you:
+
+<details>
+<summary>1. Degen into a Shitcoin</summary>
+
+You've invested all your funds into a new, unproven coin. Unfortunately, the coin's value plummets and you lose your investment. Remember, always do your research and invest based on value propositions!
+
+</details>
+
+<details>
+<summary>2. Buy some Ethereum</summary>
+
+You've just bought some Ethereum in a centralized exchange. Now you have some decisions to make.
+
+Do you:
+
+<details>
+<summary>1. Keep your crypto in a centralized exchange</summary>
+
+Unfortunately, the exchange gets hacked and all your Ethereum is stolen. Remember the core crypto values: not your keys, not your coins. It's always best to be your own bank, it's never been easier now that Loopring is around!
+
+</details>
+
+<details>
+<summary>2. Withdraw your crypto to your own wallet</summary>
+
+Congratulations! You've taken control of your own assets. In doing so, you discover Loopring, a Layer 2 scaling solution that offers secure, scalable, and low-cost Ethereum transactions. You're impressed by the incredible technology behind it.
+
+Do you:
+
+<details>
+<summary>1. Buy heavily into Loopring</summary>
+
+You've decided to invest in Loopring, recognizing its potential to revolutionize the blockchain space with its Layer 2 scaling solution. Your investment pays off as Loopring's value skyrockets!
+
+</details>
+
+<details>
+<summary>2. Educate your friends & family about Loopring</summary>
+
+You've taken it upon yourself to spread the word about Loopring. Your friends and family are intrigued by the technology and its potential. Some of them even decide to invest in Loopring themselves!
+
+</details>
+
+</details>
+
+</details>
+
+<details>
+<summary>3. Create a digital art NFT</summary>
+
+You've created a beautiful piece of digital art and minted it as an NFT with super low gas fees on the Loopring blockchain.
+
+Do you:
+
+<details>
+<summary>1. Put the NFT up for sale</summary>
+
+Your NFT sells for a significant price on the Loopring marketplace! Congratulations, you just kickstarted your artist journey.
+
+</details>
+
+<details>
+<summary>2. Gift the NFT to a friend</summary>
+
+Your friend is thrilled with the NFT! By gifting the NFT, you've spread awareness of blockchain technology and its potential to disrupt traditional systems.
+
+</details>
+
+<details>
+<summary>3. Hold the NFT</summary>
+
+You decide to hold onto your NFT, believing it will appreciate in value over time. This decision pays off as the NFT's value increases significantly after you become a known artist!
+
+</details>
+
+</details>
+
+<details>
+<summary>4. Dive into the world of Web3 gaming with GameStop, the epicenter of web3 gaming</summary>
+
+You've just bought your first game asset on the GameStop marketplace with a gasless experience using Immutable X.
+
+Do you:
+
+<details>
+<summary>1. Play the game with your new asset</summary>
+
+You're having a blast playing the game with your new asset! You manage to recover your investment and then sell the asset to move into a different game. You're enjoying the new reality of owning digital assets.
+
+</details>
+
+<details>
+<summary>2. Trade the asset for another game asset</summary>
+
+You've successfully traded your game asset for another one that suits yourSure, here's the full code with collapsible sections:
+
+```markdown
+## 🎮 Mini-Game: Choose Your Own Crypto Adventure!
+
+You've just entered the world of blockchain. You have a powerful computer and internet connection.
+
+Do you:
+
+<details>
+<summary>1. Degen into a Shitcoin</summary>
+
+You've invested all your funds into a new, unproven coin. Unfortunately, the coin's value plummets and you lose your investment. Remember, always do your research and invest based on value propositions!
+
+</details>
+
+<details>
+<summary>2. Buy some Ethereum</summary>
+
+You've just bought some Ethereum in a centralized exchange. Now you have some decisions to make.
+
+Do you:
+
+<details>
+<summary>1. Keep your crypto in a centralized exchange</summary>
+
+Unfortunately, the exchange gets hacked and all your Ethereum is stolen. Remember the core crypto values: not your keys, not your coins. It's always best to be your own bank, it's never been easier now that Loopring is around!
+
+</details>
+
+<details>
+<summary>2. Withdraw your crypto to your own wallet</summary>
+
+Congratulations! You've taken control of your own assets. In doing so, you discover Loopring, a Layer 2 scaling solution that offers secure, scalable, and low-cost Ethereum transactions. You're impressed by the incredible technology behind it.
+
+Do you:
+
+<details>
+<summary>1. Buy heavily into Loopring</summary>
+
+You've decided to invest in Loopring, recognizing its potential to revolutionize the blockchain space with its Layer 2 scaling solution. Your investment pays off as Loopring's value skyrockets!
+
+</details>
+
+<details>
+<summary>2. Educate your friends & family about Loopring</summary>
+
+You've taken it upon yourself to spread the word about Loopring. Your friends and family are intrigued by the technology and its potential. Some of them even decide to invest in Loopring themselves!
+
+</details>
+
+</details>
+
+</details>
+
+<details>
+<summary>3. Create a digital art NFT</summary>
+
+You've created a beautiful piece of digital art and minted it as an NFT with super low gas fees on the Loopring blockchain.
+
+Do you:
+
+<details>
+<summary>1. Put the NFT up for sale</summary>
+
+Your NFT sells for a significant price on the Loopring marketplace! Congratulations, you just kickstarted your artist journey.
+
+</details>
+
+<details>
+<summary>2. Gift the NFT to a friend</summary>
+
+Your friend is thrilled with the NFT! By gifting the NFT, you've spread awareness of blockchain technology and its potential to disrupt traditional systems.
+
+</details>
+
+<details>
+<summary>3. Hold the NFT</summary>
+
+You decide to hold onto your NFT, believing it will appreciate in value over time. This decision pays off as the NFT's value increases significantly after you become a known artist!
+
+</details>
+
+</details>
+
+<details>
+<summary>4. Dive into the world of Web3 gaming with GameStop, the epicenter of web3 gaming</summary>
+
+You've just bought your first game asset on the GameStop marketplace with a gasless experience using Immutable X.
+
+Do you:
+
+<details>
+<summary>1. Play the game with your new asset</summary>
+
+You're having a blast playing the game with your new asset! You manage to recover your investment and then sell the asset to move into a different game. You're enjoying the new reality of owning digital assets.
+
+</details>
+
+<details>
+<summary>2. Trade the asset for another game asset</summary>
+
+You've successfully traded your game asset for another one that suits yourSure, here's the full code with collapsible sections:
+
+```markdown
+## 🎮 Mini-Game: Choose Your Own Crypto Adventure!
+
+You've just entered the world of blockchain. You have a powerful computer and internet connection.
+
+Do you:
+
+<details>
+<summary>1. Degen into a Shitcoin</summary>
+
+You've invested all your funds into a new, unproven coin. Unfortunately, the coin's value plummets and you lose your investment. Remember, always do your research and invest based on value propositions!
+
+</details>
+
+<details>
+<summary>2. Buy some Ethereum</summary>
+
+You've just bought some Ethereum in a centralized exchange. Now you have some decisions to make.
+
+Do you:
+
+<details>
+<summary>1. Keep your crypto in a centralized exchange</summary>
+
+Unfortunately, the exchange gets hacked and all your Ethereum is stolen. Remember the core crypto values: not your keys, not your coins. It's always best to be your own bank, it's never been easier now that Loopring is around!
+
+</details>
+
+<details>
+<summary>2. Withdraw your crypto to your own wallet</summary>
+
+Congratulations! You've taken control of your own assets. In doing so, you discover Loopring, a Layer 2 scaling solution that offers secure, scalable, and low-cost Ethereum transactions. You're impressed by the incredible technology behind it.
+
+Do you:
+
+<details>
+<summary>1. Buy heavily into Loopring</summary>
+
+You've decided to invest in Loopring, recognizing its potential to revolutionize the blockchain space with its Layer 2 scaling solution. Your investment pays off as Loopring's value skyrockets!
+
+</details>
+
+<details>
+<summary>2. Educate your friends & family about Loopring</summary>
+
+You've taken it upon yourself to spread the word about Loopring. Your friends and family are intrigued by the technology and its potential. Some of them even decide to invest in Loopring themselves!
+
+</details>
+
+</details>
+
+</details>
+
+<details>
+<summary>3. Create a digital art NFT</summary>
+
+You've created a beautiful piece of digital art and minted it as an NFT with super low gas fees on the Loopring blockchain.
+
+Do you:
+
+<details>
+<summary>1. Put the NFT up for sale</summary>
+
+Your NFT sells for a significant price on the Loopring marketplace! Congratulations, you just kickstarted your artist journey.
+
+</details>
+
+<details>
+<summary>2. Gift the NFT to a friend</summary>
+
+Your friend is thrilled with the NFT! By gifting the NFT, you've spread awareness of blockchain technology and its potential to disrupt traditional systems.
+
+</details>
+
+<details>
+<summary>3. Hold the NFT</summary>
+
+You decide to hold onto your NFT, believing it will appreciate in value over time. This decision pays off as the NFT's value increases significantly after you become a known artist!
+
+</details>
+
+</details>
+
+<details>
+<summary>4. Dive into the world of Web3 gaming with GameStop, the epicenter of web3 gaming</summary>
+
+You've just bought your first game asset on the GameStop marketplace with a gasless experience using Immutable X.
+
+Do you:
+
+<details>
+<summary>1. Play the game with your new asset</summary>
+
+You're having a blast playing the game with your new asset! You manage to recover your investment and then sell the asset to move into a different game. You're enjoying the new reality of owning digital assets.
+
+</details>
+
+<details>
+<summary>2. Trade the asset for another game asset</summary>
+
+You've successfully traded your game asset for another one that suits yourSure, here's the full code with collapsible sections:
+
+```markdown
+## 🎮 Mini-Game: Choose Your Own Crypto Adventure!
+
+You've just entered the world of blockchain. You have a powerful computer and internet connection.
+
+Do you:
+
+<details>
+<summary>1. Degen into a Shitcoin</summary>
+
+You've invested all your funds into a new, unproven coin. Unfortunately, the coin's value plummets and you lose your investment. Remember, always do your research and invest based on value propositions!
+
+</details>
+
+<details>
+<summary>2. Buy some Ethereum</summary>
+
+You've just bought some Ethereum in a centralized exchange. Now you have some decisions to make.
+
+Do you:
+
+<details>
+<summary>1. Keep your crypto in a centralized exchange</summary>
+
+Unfortunately, the exchange gets hacked and all your Ethereum is stolen. Remember the core crypto values: not your keys, not your coins. It's always best to be your own bank, it's never been easier now that Loopring is around!
+
+</details>
+
+<details>
+<summary>2. Withdraw your crypto to your own wallet</summary>
+
+Congratulations! You've taken control of your own assets. In doing so, you discover Loopring, a Layer 2 scaling solution that offers secure, scalable, and low-cost Ethereum transactions. You're impressed by the incredible technology behind it.
+
+Do you:
+
+<details>
+<summary>1. Buy heavily into Loopring</summary>
+
+You've decided to invest in Loopring, recognizing its potential to revolutionize the blockchain space with its Layer 2 scaling solution. Your investment pays off as Loopring's value skyrockets!
+
+</details>
+
+<details>
+<summary>2. Educate your friends & family about Loopring</summary>
+
+You've taken it upon yourself to spread the word about Loopring. Your friends and family are intrigued by the technology and its potential. Some of them even decide to invest in Loopring themselves!
+
+</details>
+
+</details>
+
+</details>
+
+<details>
+<summary>3. Create a digital art NFT</summary>
+
+You've created a beautiful piece of digital art and minted it as an NFT with super low gas fees on the Loopring blockchain.
+
+Do you:
+
+<details>
+<summary>1. Put the NFT up for sale</summary>
+
+Your NFT sells for a significant price on the Loopring marketplace! Congratulations, you just kickstarted your artist journey.
+
+</details>
+
+<details>
+<
