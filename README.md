@@ -19,12 +19,13 @@ I'm an innovative and detail-oriented full-stack dev passionate about blockchain
 - Other: Responsive Web Design, UI/UX Design, Performance Optimization, BEM convention, SEO.
 
 ## 🛠️ Projects
-- [Blockchain Consultant at University for Internacional Cooperation] - Implementation of blockchain technology to certify students. Development of web application to verify students certifications using ERC tokens.
-- [Web Developer at Freelance] - Developed and maintained responsive web applications using modern front-end and back-end technologies. Collaborated with cross-functional teams, including designers, project managers, and stakeholders to deliver high-quality solutions on time and within budget.
-- [Blockchain Consultant at Freelance] - Strategy planning and project management focused on the client's goals and vision. Developed and deployed blockchain-based solutions such as DAOs and token-gating functionalities. Deployment and management of cryptocurrency mining rigs and hardware-based nodes.
+- [Blockchain Consultant at University for Internacional Cooperation](https://github.com/UCICR/uci-verifications-app) - Implementation of blockchain technology to certify students. Development of web application to verify students certifications using ERC tokens.
+- Web Development - Developed and maintained responsive web applications using modern front-end and back-end technologies. Collaborated with cross-functional teams, including designers, project managers, and stakeholders to deliver high-quality solutions on time and within budget.
+- Blockchain Consultations - Strategy planning and project management focused on the client's goals and vision. Developed and deployed blockchain-based solutions such as DAOs and token-gating functionalities. Deployment and management of cryptocurrency mining rigs and hardware-based nodes.
+- [Web3 Rocketeers](https://web3rocketeers.xyz/) - Pioneering the collision between gaming and blockchain technology. We are a decentralized autonomous gaming organization (DAO) governed on Ethereum enriching game environments and providing value to our members.
 
 ## 📫 Contact Me
 - Email - AFonck@protonmail.com
-- LinkedIn - [Andrés Fonseca Bolaños]([link](https://www.linkedin.com/in/fonckchain/))
+- LinkedIn - [Andrés Fonseca Bolaños](https://www.linkedin.com/in/fonckchain/)
 
-![Andrés Fonseca Bolaños's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Andrés Fonseca Bolaños's GitHub stats](https://github-readme-stats.vercel.app/api?username=fonckchain&show_icons=true&theme=radical&hide_rank=true)
