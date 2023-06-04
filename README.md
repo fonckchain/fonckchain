@@ -27,10 +27,12 @@ I'm an innovative and detail-oriented full-stack dev passionate about blockchain
 ## 📝 Medium Stories
 I regularly write articles on Medium about web3, with a focus on Loopring, Immutable X, and gaming. Check out my stories to learn more about these topics and stay up-to-date with the latest trends and developments. [Read my stories on Medium](https://medium.com/@fonckchain)
 
-## 📫 Contact Me
+## 📫 Connect with Me
 - Email - AFonck@protonmail.com
 - LinkedIn - [Andrés Fonseca Bolaños](https://www.linkedin.com/in/fonckchain/)
+- 🐦Twitter - [@fonckchain](https://twitter.com/fonckchain)
 
+## Visitor Counter
 ![Visitor Count](https://profile-counter.glitch.me/fonckchain/count.svg)
 
 ![Andrés Fonseca Bolaños's GitHub stats](https://github-readme-stats.vercel.app/api?username=fonckchain&show_icons=true&theme=radical)
