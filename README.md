@@ -24,8 +24,13 @@ I'm an innovative and detail-oriented full-stack dev passionate about blockchain
 - Blockchain Consultations - Strategy planning and project management focused on the client's goals and vision. Developed and deployed blockchain-based solutions such as DAOs and token-gating functionalities. Deployment and management of cryptocurrency mining rigs and hardware-based nodes.
 - [Web3 Rocketeers](https://web3rocketeers.xyz/) - Pioneering the collision between gaming and blockchain technology. We are a decentralized autonomous gaming organization (DAO) governed on Ethereum enriching game environments and providing value to our members.
 
+## 📝 Medium Stories
+I regularly write articles on Medium about web3, with a focus on Loopring, Immutable X, and gaming. Check out my stories to learn more about these topics and stay up-to-date with the latest trends and developments. [Read my stories on Medium](https://medium.com/@fonckchain)
+
 ## 📫 Contact Me
 - Email - AFonck@protonmail.com
 - LinkedIn - [Andrés Fonseca Bolaños](https://www.linkedin.com/in/fonckchain/)
 
-![Andrés Fonseca Bolaños's GitHub stats](https://github-readme-stats.vercel.app/api?username=fonckchain&show_icons=true&theme=radical&hide_rank=true)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=fonckchain.fonckchain)
+
+![Andrés Fonseca Bolaños's GitHub stats](https://github-readme-stats.vercel.app/api?username=fonckchain&show_icons=true&theme=radical)
