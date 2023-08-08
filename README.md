@@ -8,7 +8,7 @@ I'm an innovative and detail-oriented full-stack developer passionate about bloc
 - Certified Kanban Project Manager and Scrum Master with a proven track record of successfully leading projects and managing teams in various domains, including e-commerce, video gaming, and blockchain technology.
 - Excellent communication and teamwork abilities, with experience collaborating with cross-functional teams.
 
-## 👯 Skills and Tools
+## 💻 Skills and Tools
 - Front-end: HTML5, CSS3, JavaScript (ES6+), Webflow, Bootstrap.
 - Blockchain: Solidity, Ethereum, Web3.py, ERC Token standards, ENS, Loopring, Immutable X, Polygon, Point Network, IPFS, The Graph.
 - Back-end: Node.js, PHP, Python, RESTful APIs, SDKs, Bash.
