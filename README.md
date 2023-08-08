@@ -17,7 +17,7 @@ I'm an innovative and detail-oriented full-stack developer passionate about bloc
 - Other: Responsive Web Design, UI/UX Design, Performance Optimization, BEM convention, DRY & SOLID principles, SEO.
 
 ## 🛠️ Projects
-- [Blockchain Consultant at University for Internacional Cooperation](https://uci.ac.cr) - Implementation of blockchain technology to certify students using decentralized digital ledgers and cryptocurrency payment channels.
+- Blockchain Consultancy at [University for Internacional Cooperation](https://uci.ac.cr) - Implementation of blockchain technology to certify students using decentralized digital ledgers and cryptocurrency payment channels.
 - [Web3 Rocketeers](https://web3rocketeers.xyz/) - Pioneering the collision between gaming and blockchain technology. We are a decentralized autonomous gaming organization (DAO) governed on Ethereum enriching game environments and providing value to our members.
 
 ## 📝 Medium Stories
