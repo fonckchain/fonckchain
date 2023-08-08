@@ -12,7 +12,7 @@ I'm an innovative and detail-oriented full-stack developer passionate about bloc
 - Front-end: HTML5, CSS3, JavaScript (ES6+), Webflow, Bootstrap.
 - Blockchain: Solidity, Ethereum, Web3.py, ERC Token standards, ENS, Loopring, Immutable X, Polygon, Point Network, IPFS, The Graph.
 - Back-end: Node.js, PHP, Python, RESTful APIs, SDKs, Bash.
-- Databases: Basic understanding of MySQL and MongoDB.
+- Databases: Familiarity with MySQL and MongoDB.
 - Tools & Technologies: Git, Open AI, Jira, Notion, SASS, Gulp, npm, Babel, AWS.
 - Other: Responsive Web Design, UI/UX Design, Performance Optimization, BEM convention, DRY & SOLID principles, SEO.
 
